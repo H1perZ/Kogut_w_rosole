@@ -1,0 +1,11 @@
+Projekt aplikacji zarządzająca i wyszukająca piłkarzy na rynku transferowym
+
+Wymagania niefunkcjonalne:
+1. Bezpieczeństwo
+2. Szybkość
+3. Wiarygodność
+4. Niezawodność
+5. Przejżystość
+6. Instynktowne
+7. Użyteczność
+8. Integralność danych
