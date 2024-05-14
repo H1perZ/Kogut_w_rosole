@@ -1,0 +1,23 @@
+Projekt: Aplikacja zarządzająca i wyszukująca piłkarzy na rynku tranferowym
+
+wymagania funkcjonalne:
+
+1. Rejestracja i logowanie :
+	- System musi umożliwiać użytkownikowi możliwość rejestracji konta
+	- System musi umożliwiać użytkownikowi możliwość zalogowania się
+2. Profil: 
+	- System musi umożliwiać użytkownikomi możliwość zarządzania i zmiany danych własnego profilu
+	- Użytkownik powinien mieć możliwość ustawienia preferencji informacjii na temat zawodników oraz transferów
+3. Baza danych piłkarzy:
+	- System musi mieć możliwość przechowywania danych szczegółowych takich jak: imię, nazwisko, wiek, wzrost, waga, narodowość, klub, pozycja, dyspozycja
+	- Uzytkownik musi mieć możliwość wyszukiwania piłkarzy według danych kryteriów 
+4. Oferty tranferowe:
+	-System musi umożliwić składanie ofert transferowych za piłkarzy
+	-System musi umożliwić agentom, lub piłkarzom przeglądanie i akceptowanie lub odrzucenie ofert.
+5. Negocjacje:
+	- System musi umożliwiać możliwość negocjacji między agentem piłkarza, a klubem i nie tylko.
+6. Historia transferów:
+	- System musi przechowywać dane na temat wszystkich tranferów (zaakceptowanych, odrzuconych i negocjacji)
+	- Użytkownik musi mieć możliwość przeglądania historii transferów
+7. Autoryzacja i role:
+	- System musi obsługiwać różne role użytkowników (np. admin, klub, agent, piłkarz)
